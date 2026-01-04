@@ -9,7 +9,7 @@ const projects = [
     image: "/showcase.png",
     tags: ["React", "Tailindcss", "Netlify"],
     link: "https://scenaclub.netlify.app/",
-    github: "",
+    github: "https://github.com/Scena-Club/Scena-Club-Web-Site",
   },
   {
     title: "Taedraw - Tournament draw generator",
@@ -18,7 +18,7 @@ const projects = [
     image: "/taedraw.png",
     tags: ["React", "Tailindcss", "Netlify"],
     link: "https://taedraw.netlify.app/",
-    github: "",
+    github: "https://github.com/WasssBak/Taedraw",
   },
 ];
 
