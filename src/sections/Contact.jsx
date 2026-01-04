@@ -25,7 +25,7 @@ const Info = [
   {
     icon: MapPin,
     label: "Location",
-    value: "Edimco, Bejaia, 06000",
+    value: "Edimco, Bejaia 06000, Algeria",
     href: "#",
   },
 ];
