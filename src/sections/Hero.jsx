@@ -108,7 +108,10 @@ export const Hero = () => {
                   Contact Me <ArrowRight className="w-5 h-5" />
                 </Button1>
               </a>
-              <a href="" className="m-0 p-0">
+              <a
+                href="https://drive.google.com/uc?export=download&id=1ZXrK1exdKqvvPv5ZhxPvoGHinU-Qv0re"
+                className="m-0 p-0"
+              >
                 <Button2>
                   <Download className="w-5 h-5" />
                   Download CV
