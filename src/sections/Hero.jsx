@@ -32,7 +32,7 @@ export const Hero = () => {
     "Linux",
     "pfSsense",
     "Docker",
-    "Kaggle",
+    "KVM",
   ];
 
   const floatingIcons = [
