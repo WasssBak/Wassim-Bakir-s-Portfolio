@@ -11,7 +11,7 @@ Hi! I'm Wassim Bakir, a network engineer and web developer. This repository cont
 - **React 18** - Modern UI library
 - **Vite** - Next-generation frontend build tool
 - **JavaScript (ES6+)** - Programming language
-- **CSS3** - Styling and animations
+- **TailwindCSS** - Styling and animations
 - **ESLint** - Code quality and consistency
 
 ## ✨ Features
