@@ -1,18 +1,46 @@
-# React + Vite
+# Wassim Bakir's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Personal portfolio website - Network Engineer & Web Developer
 
-Currently, two official plugins are available:
+## 👋 About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Hi! I'm Wassim Bakir, a network engineer and web developer. This repository contains the source code for my personal portfolio website where I showcase my skills, projects, and professional experience.
 
-## React Compiler
+## 🌐 Visit My Portfolio
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+**[View Live Portfolio](#)** <!-- Add your live portfolio URL here -->
 
-Note: This will impact Vite dev & build performances.
+## 🚀 Built With
 
-## Expanding the ESLint configuration
+- **React 18** - Modern UI library
+- **Vite** - Next-generation frontend build tool
+- **JavaScript (ES6+)** - Programming language
+- **CSS3** - Styling and animations
+- **ESLint** - Code quality and consistency
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- 🎨 Clean and professional design
+- 📱 Fully responsive across all devices
+- ⚡ Optimized performance with Vite
+- 🎯 Smooth user experience
+- 🔧 Modern development setup
+
+## 📧 Contact
+
+If you'd like to get in touch, feel free to reach out:
+
+- **GitHub:** [@WasssBak](https://github.com/WasssBak)
+- **Portfolio:** [Live Site](https://wassimbakir.netlify.app/)
+
+---
+
+## 📝 Note
+
+This is my personal portfolio project. The code is public for transparency and to showcase my work, but it's designed specifically for my personal use. If you're interested in creating your own portfolio, I'd encourage you to build something unique that represents your own style and experience!
+
+---
+
+<div align="center">
+  Built with ❤️ by Wassim Bakir
+</div>
