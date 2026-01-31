@@ -6,10 +6,6 @@
 
 Hi! I'm Wassim Bakir, a network engineer and web developer. This repository contains the source code for my personal portfolio website where I showcase my skills, projects, and professional experience.
 
-## 🌐 Visit My Portfolio
-
-**[View Live Portfolio](#)** <!-- Add your live portfolio URL here -->
-
 ## 🚀 Built With
 
 - **React 18** - Modern UI library
